@@ -1,4 +1,4 @@
-# Datasets Creation with BigQuery and Dataflow
+# Dataset Creation with BigQuery and Dataflow
 
 This is the code referenced in my Medium/TDS article [Creating ML Datasets with Ease using BigQuery and Dataflow].
 
